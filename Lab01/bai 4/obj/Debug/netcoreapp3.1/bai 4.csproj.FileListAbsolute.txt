@@ -1,0 +1,14 @@
+D:\hutech\TH Lập trình trên môi trường Windows\Lab1_t7\bai 4\bin\Debug\netcoreapp3.1\bai 4.exe
+D:\hutech\TH Lập trình trên môi trường Windows\Lab1_t7\bai 4\bin\Debug\netcoreapp3.1\bai 4.deps.json
+D:\hutech\TH Lập trình trên môi trường Windows\Lab1_t7\bai 4\bin\Debug\netcoreapp3.1\bai 4.runtimeconfig.json
+D:\hutech\TH Lập trình trên môi trường Windows\Lab1_t7\bai 4\bin\Debug\netcoreapp3.1\bai 4.runtimeconfig.dev.json
+D:\hutech\TH Lập trình trên môi trường Windows\Lab1_t7\bai 4\bin\Debug\netcoreapp3.1\bai 4.dll
+D:\hutech\TH Lập trình trên môi trường Windows\Lab1_t7\bai 4\bin\Debug\netcoreapp3.1\bai 4.pdb
+D:\hutech\TH Lập trình trên môi trường Windows\Lab1_t7\bai 4\obj\Debug\netcoreapp3.1\bai 4.GeneratedMSBuildEditorConfig.editorconfig
+D:\hutech\TH Lập trình trên môi trường Windows\Lab1_t7\bai 4\obj\Debug\netcoreapp3.1\bai 4.AssemblyInfoInputs.cache
+D:\hutech\TH Lập trình trên môi trường Windows\Lab1_t7\bai 4\obj\Debug\netcoreapp3.1\bai 4.AssemblyInfo.cs
+D:\hutech\TH Lập trình trên môi trường Windows\Lab1_t7\bai 4\obj\Debug\netcoreapp3.1\bai 4.csproj.CoreCompileInputs.cache
+D:\hutech\TH Lập trình trên môi trường Windows\Lab1_t7\bai 4\obj\Debug\netcoreapp3.1\bai 4.dll
+D:\hutech\TH Lập trình trên môi trường Windows\Lab1_t7\bai 4\obj\Debug\netcoreapp3.1\bai 4.pdb
+D:\hutech\TH Lập trình trên môi trường Windows\Lab1_t7\bai 4\obj\Debug\netcoreapp3.1\bai 4.genruntimeconfig.cache
+D:\hutech\TH Lập trình trên môi trường Windows\Lab1_t7\bai 4\obj\Debug\netcoreapp3.1\bai 4.csproj.AssemblyReference.cache
