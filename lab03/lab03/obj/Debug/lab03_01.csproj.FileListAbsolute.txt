@@ -1,0 +1,14 @@
+D:\hutech\TH Lập trình trên môi trường Windows\lab03\lab03\bin\Debug\lab03.exe.config
+D:\hutech\TH Lập trình trên môi trường Windows\lab03\lab03\bin\Debug\lab03.exe
+D:\hutech\TH Lập trình trên môi trường Windows\lab03\lab03\bin\Debug\lab03.pdb
+D:\hutech\TH Lập trình trên môi trường Windows\lab03\lab03\bin\Debug\Interop.WMPLib.dll
+D:\hutech\TH Lập trình trên môi trường Windows\lab03\lab03\bin\Debug\AxInterop.WMPLib.dll
+D:\hutech\TH Lập trình trên môi trường Windows\lab03\lab03\obj\Debug\Interop.WMPLib.dll
+D:\hutech\TH Lập trình trên môi trường Windows\lab03\lab03\obj\Debug\AxInterop.WMPLib.dll
+D:\hutech\TH Lập trình trên môi trường Windows\lab03\lab03\obj\Debug\lab03_01.csproj.ResolveComReference.cache
+D:\hutech\TH Lập trình trên môi trường Windows\lab03\lab03\obj\Debug\lab03.Form1.resources
+D:\hutech\TH Lập trình trên môi trường Windows\lab03\lab03\obj\Debug\lab03.Properties.Resources.resources
+D:\hutech\TH Lập trình trên môi trường Windows\lab03\lab03\obj\Debug\lab03_01.csproj.GenerateResource.cache
+D:\hutech\TH Lập trình trên môi trường Windows\lab03\lab03\obj\Debug\lab03_01.csproj.CoreCompileInputs.cache
+D:\hutech\TH Lập trình trên môi trường Windows\lab03\lab03\obj\Debug\lab03.exe
+D:\hutech\TH Lập trình trên môi trường Windows\lab03\lab03\obj\Debug\lab03.pdb
